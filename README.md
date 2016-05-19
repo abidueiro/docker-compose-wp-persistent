@@ -1,5 +1,5 @@
 # docker-compose-wp-persistent
-Launches wp and mysql with their respective data volumes on project folder
+Wordpress and Mysql Docker containers with their respective data volumes on project folder
 
 ###Create a project folder
 
