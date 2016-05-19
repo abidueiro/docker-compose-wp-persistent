@@ -6,7 +6,10 @@ Launches wp and mysql with their respective data volumes on project folder
 `mkdir wordpress_custom`
 `cd wordpress_custom`
 
-###Put the docker-composeyml on it
+###Put the files on it
+
+`docker-compose.yml`
+`uploads.ini`
 
 or `git clone https://github.com/berzas/docker-compose-wp-persistent`
 
